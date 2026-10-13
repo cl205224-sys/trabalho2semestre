@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+
+    background-image: url("imagens/bckg1.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+
+#menu{
+    height: 3%;
+    width:100%;
+    text-align: center;
+
+    font-size:28px;
+
+    background-color: rgb(255, 238, 208);
+}
+
+a{
+    color: brown;
+    text-decoration: underline;
+}
